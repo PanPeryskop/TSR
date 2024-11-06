@@ -1,0 +1,8 @@
+path: C:/pytonik/Projekty/tsryolo/data
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 24
+names: ['A-1 Niebezpieczny zakret w prawo', 'A-11a Prog zwalniajacy', 'A-16 Przejscie dla pieszych', 'A-17 Uwaga dzieci', 'A-2 Niebezpieczny zakret w lewo', 'A-30 Inne niebiezpieczenstwo', 'A-7 Ustap pierwszenstwa', 'B-1 Zakaz ruchu w obu kierunkach', 'B-2 Zakaz wjazdu', 'B-20 STOP', 'B-21 Zakaz skrecania w lewo', 'B-22 Zakaz skrecania w prawo', 'B-23 Zakaz zawracania', 'B-33 Ograniczenie predkosci', 'B-36 Zakaz zatrzymywania sie', 'B-41 Zakaz ruchu pieszych', 'C-12 Rondo', 'C-2 Nakaz jazdy w prawo za znakiem', 'C-5 Nakaz jazdy prosto', 'D-1 Droga z pierwszenstwem', 'D-18 Parking', 'D-3 Droga jednokierunkowa', 'D-6 Przejscie dla pieszych', 'D-6b Przejscie dla pieszych i droga dla rowerzystow']
