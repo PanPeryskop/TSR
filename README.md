@@ -1,6 +1,6 @@
 # Traffic sign recognition and text-to-speech system
 
-This project is a Traffic sign recognition and text-to-speech system based on machine learning. It consists of several main components:
+This project is a Traffic sign recognition and text-to-speech system based on machine learning.
 
 ## Traffic Sign Recognition
 
