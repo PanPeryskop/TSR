@@ -1,4 +1,4 @@
-# Traffic sign recognition and text-to-speech system
+# TSR - Traffic Sign Recognition
 
 This project is a Traffic sign recognition and text-to-speech system based on machine learning.
 
