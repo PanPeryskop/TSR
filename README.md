@@ -51,7 +51,7 @@ This project is a Traffic sign recognition and text-to-speech system based on ma
 ## Final Model
 - The final model is saved in the `models` folder as 'tsrm.onnx' and 'tsrm.pth'.
 - It was trained using the YOLOv11 medium model.
-- Final model was trained on a dataset of 1060 images of traffic signs etc.
+- Final model was trained on a dataset of 1060 images of traffic signs/
 - The model was trained for 350 epochs.
 - The model can recognize 24 classes of Polish traffic signs:
 
