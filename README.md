@@ -37,9 +37,9 @@ This project is a Traffic sign recognition and text-to-speech system based on ma
 ## Usage
 
 1. **Setup**: Ensure you have all the required dependencies installed. Make sure you have the correct versions of Torch and CUDA installed. You can install them from [PyTorch's official site](https://pytorch.org/get-started/locally/).
-2. **Running the Traffic Sign Recognition**:
+2. **Running the Traffic Sign Recognition with tts**:
     ```bash
-    python rt_tsr.py
+    python tsr.py
     ```
 
 3. **Running real time preview**:
