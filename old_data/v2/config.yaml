@@ -1,0 +1,8 @@
+path: C:/pytonik/Projekty/tsryolo/data
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 19
+names: ['dod_dzieci_na_drodze', 'inf_droga_z_pierwszenstwem', 'inf_elka', 'inf_jezdnia_jednokierunkowa', 'inf_koniec_drogi_z_pierwszenstwem', 'inf_parking', 'inf_przejscie_dla_pieszych', 'inf_przejscie_pieszo_rowerowe', 'nakaz_jazdy_po_prawej', 'nakaz_ruchu_okreznego', 'ostrz_prog_zwalniajacy', 'ostrz_ustap_pierwszenstwa', 'swiatlo_czerwone', 'swiatlo_zielone', 'zakaz_ograniczenie_30', 'zakaz_ograniczenie_50', 'zakaz_postoju', 'zakaz_wjazdu', 'zakaz_zatrzymywania']
